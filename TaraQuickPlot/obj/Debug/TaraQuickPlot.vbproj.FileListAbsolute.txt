@@ -1,0 +1,10 @@
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\bin\Debug\TaraQuickPlot.exe
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\bin\Debug\TaraQuickPlot.pdb
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\bin\Debug\TaraQuickPlot.xml
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\ResolveAssemblyReference.cache
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.frmMain.resources
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.Resources.resources
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.vbproj.GenerateResource.Cache
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.exe
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.xml
+C:\AR\Visual Studio 2005\Projects\TaraQuickPlot\TaraQuickPlot\obj\Debug\TaraQuickPlot.pdb
